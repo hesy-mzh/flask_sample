@@ -5,7 +5,7 @@ flask sample
 # SYNOPSIS
 
 ~~~
-$ python clock.sample.py
+$ python clock.py
  * Serving Flask app "clock" (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
