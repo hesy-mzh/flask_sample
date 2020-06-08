@@ -1,1 +1,6 @@
-# flask_sample
+# flask sample
+
+flask + ajax sample
+
+
+
