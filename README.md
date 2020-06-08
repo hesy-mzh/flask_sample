@@ -1,6 +1,25 @@
-# flask sample
+# NAME
+flask sample
 
-flask + ajax sample
+
+# SYNOPSIS
+
+~~~
+$ python clock.sample.py 
+ * Serving Flask app "clock.sample" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+~~~
+
+
+# DESCRIPTION
+
+flask + ajax sample program
 
 
 
