@@ -21,7 +21,7 @@ $ python clock.py
 
 flask と ajax をつかったサンプル。
 
-## clock.pu
+## clock.py
 
 サーバー側の時刻をブラウザで表示する。
 
