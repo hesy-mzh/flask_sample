@@ -26,9 +26,9 @@ def index():
     <body>
         <h1>現在時刻</h1>
         <div>
-            <h2>サーバー時刻 [python3 + flask + jQuery.ajax]</h2>
+            <h2>Server Time [python3 + flask + jQuery.ajax]</h2>
             <p id="flask_time"></p>
-            <p><a href="/data/now">参照用jsonデータ</a></p>
+            <p><a href="/data/now">Data ( json )</a></p>
             <script>
                  $(function(){
                      setInterval(function(){
